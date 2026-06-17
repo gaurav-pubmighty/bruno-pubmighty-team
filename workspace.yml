@@ -1,0 +1,12 @@
+opencollection: 1.0.0
+info:
+  name: "pubmighty-team"
+  type: workspace
+
+collections:
+  - name: "tradefantacy"
+    path: "collections/tradefantacy"
+
+specs:
+
+docs: ''
