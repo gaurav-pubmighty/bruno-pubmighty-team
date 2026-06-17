@@ -1,0 +1,11 @@
+info:
+  name: main
+  type: websocket
+  seq: 2
+
+websocket:
+  url: ""
+  message:
+    type: json
+    data: "{}"
+  auth: inherit
